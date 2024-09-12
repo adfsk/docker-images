@@ -1,0 +1,1 @@
+FROM fsckzy01/rocketmq-dashboard:1.0.1
